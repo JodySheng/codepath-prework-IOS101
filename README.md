@@ -22,9 +22,7 @@ https://imgur.com/gkPfkUw
 
 <!--![](https://i.imgur.com/gkPfkUw.gifv)-->
 
-![Imgur](https://i.imgur.com/gkPfkUw.gifv)
-
-<img src='https://imgur.com/gkPfkUw' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/gkPfkUw.gifv)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
