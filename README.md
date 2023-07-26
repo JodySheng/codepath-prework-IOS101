@@ -11,7 +11,7 @@ Time spent: **10** hours spent in total
 
 The following **required** functionality is completed:
 
-- [X] Users are see a screen with three labels and a button
+- [X] Users see a screen with three labels and a button
 - [X] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
@@ -31,25 +31,25 @@ GIF created with Kap
 
 ## App Brainstorming (Step 4)
 Example App 1: LinkedIn
-<br>&emsp;Uploading photo
-<br>&emsp;Editing my profile
-<br>&emsp;Connecting to others
+<br>&emsp; Uploading photo
+<br>&emsp; Editing my profile
+<br>&emsp; Connecting to others
 
 Example App 2: Google Map
-<br>&emsp;Storing my recent searched location history
-<br>&emsp;Searching more than 2 destinations at a time
+<br>&emsp; Storing my recent searched location history
+<br>&emsp; Searching more than 2 destinations at a time
 
 Example App 3: WeChat
-<br>&emsp;Only my WeChat friends can contact and see my posts
-<br>&emsp;WeChat has a lot of emoji
+<br>&emsp; Only my WeChat friends can contact and see my posts
+<br>&emsp; WeChat has a lot of emoji
 
 
 ## Notes
 
 Describe any challenges encountered while building the app.
-1. My macOS system at first was too old for Xcode, and I don't have enough storage to download the new OS system, so I have to remanage my memory several times and deleting unnecessarily large files.
+1. My macOS system at first was too old for Xcode, and I didn't have enough storage to download the new OS system, so I have to manage my memory several times and delete unnecessarily large files.
 
-2. Not familiar with Swift, but the Pre-work does not have too much coding. And the instruction is detail enough.
+2. Not familiar with Swift, but the Pre-work does not have much coding. And the instruction is detailed enough.
 
 3. Gif first cannot show, then I tried to make the gif much smaller, and then it can show.
 
