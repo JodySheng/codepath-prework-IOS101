@@ -18,7 +18,11 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/XDxrfr8.gifv)
+<!--https://imgur.com/OlFNbOa÷-->
+
+<!--![](https://i.imgur.com/gkPfkUw.gifv)-->å
+
+![](https://i.imgur.com/XDxrfr8.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
