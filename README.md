@@ -5,7 +5,7 @@ Submitted by: **Fengjiao Sheng**
 
 **GoodJob** is an app that can help people to get jobs.
 
-Time spent: **8** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
