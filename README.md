@@ -18,10 +18,11 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-https://imgur.com/gkPfkUw?
+https://imgur.com/gkPfkUw
 
 <!--![](https://i.imgur.com/gkPfkUw.gifv)-->
-![Imgur](https://imgur.com/gkPfkUw.gif)
+
+[Imgur](https://i.imgur.com/gkPfkUw.gifv)
 
 <!--<img src='https://imgur.com/gkPfkUw' title='Video Walkthrough' width='' alt='Video Walkthrough' />-->
 
