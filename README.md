@@ -18,8 +18,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-/Users/saintlonglive/Downloads/Goodjob_FengjiaoSheng.gif
-<img src='https://imgur.com/gkPfkUw' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<!--https://imgur.com/gkPfkUw?-->
+[Imgur](https://i.imgur.com/gkPfkUw.gifv)
+
+<!--<img src='https://imgur.com/gkPfkUw' title='Video Walkthrough' width='' alt='Video Walkthrough' />-->
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
