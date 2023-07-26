@@ -18,9 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<!--https://imgur.com/OlFNbOa÷-->
-
-<!--![](https://i.imgur.com/gkPfkUw.gifv)-->å
+<!--![](https://i.imgur.com/gkPfkUw.gifv)-->
 
 ![](https://i.imgur.com/XDxrfr8.gif)
 
@@ -52,6 +50,8 @@ Describe any challenges encountered while building the app.
 1. My macOS system at first was too old for Xcode, and I don't have enough storage to download the new OS system, so I have to remanage my memory several times and deleting unnecessarily large files.
 
 2. Not familiar with Swift, but the Pre-work does not have too much coding. And the instruction is detail enough.
+
+3. Gif first cannot show, then I tried to make the gif much smaller, and then it can show.
 
 ## License
 
