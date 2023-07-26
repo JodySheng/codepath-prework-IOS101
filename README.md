@@ -22,7 +22,7 @@ https://imgur.com/OlFNbOa
 
 <!--![](https://i.imgur.com/gkPfkUw.gifv)-->
 
-![](https://i.imgur.com/OlFNbOa.gifv)
+![](https://i.imgur.com/4OBesVY.jpg)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
