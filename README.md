@@ -33,11 +33,11 @@ GIF created with Kap
 Example App 1: LinkedIn
 <br>&emsp;Uploading photo
 <br>&emsp;Editing my profile
-<br>&emsp;connecting to others
+<br>&emsp;Connecting to others
 
 Example App 2: Google Map
-<br>&emsp;storing my recent searched location history
-<br>&emsp;searching more than 2 destinations at a time
+<br>&emsp;Storing my recent searched location history
+<br>&emsp;Searching more than 2 destinations at a time
 
 Example App 3: WeChat
 <br>&emsp;Only my WeChat friends can contact and see my posts
