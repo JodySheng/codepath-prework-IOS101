@@ -18,8 +18,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<!--https://imgur.com/gkPfkUw?-->
-![](https://i.imgur.com/gkPfkUw.gifv)
+https://imgur.com/gkPfkUw?
+
+<!--![](https://i.imgur.com/gkPfkUw.gifv)-->
+![Imgur](https://i.imgur.com/gkPfkUw.gifv)
 
 <!--<img src='https://imgur.com/gkPfkUw' title='Video Walkthrough' width='' alt='Video Walkthrough' />-->
 
@@ -32,23 +34,24 @@ GIF created with Kap
 
 ## App Brainstorming (Step 4)
 Example App 1: LinkedIn
-    Uploading photo
-    Editing my profile
-    connecting to others
+<br>&emsp;Uploading photo
+<br>&emsp;Editing my profile
+<br>&emsp;connecting to others
 
 Example App 2: Google Map
-    storing my recent searched location history
-    searching more than 2 destinations at a time
+<br>&emsp;storing my recent searched location history
+<br>&emsp;searching more than 2 destinations at a time
 
 Example App 3: WeChat
-    Only my WeChat friends can contact and see my posts
-    WeChat has a lot of emoji
+<br>&emsp;Only my WeChat friends can contact and see my posts
+<br>&emsp;WeChat has a lot of emoji
 
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 1. My macOS system at first was too old for Xcode, and I don't have enough storage to download the new OS system, so I have to remanage my memory several times and deleting unnecessarily large files.
+
 2. Not familiar with Swift, but the Pre-work does not have too much coding. And the instruction is detail enough.
 
 ## License
