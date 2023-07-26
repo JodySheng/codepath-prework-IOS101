@@ -3,7 +3,7 @@
 
 Submitted by: **Fengjiao Sheng**
 
-**GoodJob** is an app that... [TODO] can help people to get jobs.
+**GoodJob** is an app that can help people to get jobs.
 
 Time spent: **8** hours spent in total
 
@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 <!--https://imgur.com/gkPfkUw?-->
-[Imgur](https://i.imgur.com/gkPfkUw.gifv)
+![](https://i.imgur.com/gkPfkUw.gifv)
 
 <!--<img src='https://imgur.com/gkPfkUw' title='Video Walkthrough' width='' alt='Video Walkthrough' />-->
 
@@ -31,15 +31,29 @@ GIF created with Kap
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+Example App 1: LinkedIn
+    Uploading photo
+    Editing my profile
+    connecting to others
+
+Example App 2: Google Map
+    storing my recent searched location history
+    searching more than 2 destinations at a time
+
+Example App 3: WeChat
+    Only my WeChat friends can contact and see my posts
+    WeChat has a lot of emoji
 
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+1. My macOS system at first was too old for Xcode, and I don't have enough storage to download the new OS system, so I have to remanage my memory several times and deleting unnecessarily large files.
+2. Not familiar with Swift, but the Pre-work does not have too much coding. And the instruction is detail enough.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [Fengjiao Sheng] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
